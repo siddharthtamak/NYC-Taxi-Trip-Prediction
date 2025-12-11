@@ -11,7 +11,7 @@
 ---
 
 ## ⭐ Project Overview
-This project focuses on two important tasks in intelligent transportation systems using the **NYC Taxi Trip Duration Dataset** from Kaggle (1.45M rides):
+This project focuses on two important tasks in intelligent transportation systems using the [**NYC Taxi Trip Duration Dataset**](https://www.kaggle.com/competitions/nyc-taxi-trip-duration) from Kaggle (1.45M rides):
 
 ### 1️⃣ Trip Duration Prediction (Regression Task)
 Predicting the travel time of NYC taxi rides using machine learning models based on geospatial and temporal features.
@@ -125,7 +125,7 @@ Since the dataset lacks explicit acceptance labels, we created a custom binary l
 
 ## 📝 Report
 The complete academic project report, detailing the methodology, mathematical formulations, and in-depth results, is available here:
-👉 [**report/Project_Report.pdf**](Project_Report.pdf)
+👉 [**Project Report.pdf**](Project Report.pdf)
 
 ---
 
